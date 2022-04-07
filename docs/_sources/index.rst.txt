@@ -10,7 +10,11 @@ Welcome to phiarchitect.github.io's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. graphviz::
 
+   digraph foo {
+        "bar" -> "baz";
+   }
 
 Indices and tables
 ==================
