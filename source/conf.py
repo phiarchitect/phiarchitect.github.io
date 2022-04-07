@@ -63,3 +63,11 @@ html_static_path = ['_static']
 
 
 # -- Extension configuration -------------------------------------------------
+html_theme_options = {
+    'logo': 'phi-headshot-sqr.jpg',
+    'github_user': 'bitprophet',
+    'base_bg': 'black',
+    'base_text': 'white',
+    'font_family': "'Fira Sans Condensed', sans-serif",
+}
+
