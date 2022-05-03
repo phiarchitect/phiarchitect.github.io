@@ -189,6 +189,9 @@ needs_sphinx = '1.2'
 extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.githubpages',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.mathjax',
     'sphinx.ext.todo',
     'photonsphinx',
     'ablog',
