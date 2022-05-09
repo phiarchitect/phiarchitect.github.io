@@ -7,7 +7,9 @@
 phiarchitect.github.io
 ======================
 
-information on phi ARCHITECT's Github projects
+   Visit `phiarchitect.com`_ for an overview of phi and his work.
+
+.. _phiarchitect.com: https://phiarchitect.com
 
 Recent Posts
 ------------
@@ -20,5 +22,5 @@ Recent Posts
 .. toctree::
    :hidden:
 
-   about.rst
+   back to phiarchitect.com <https://phiarchitect.com> 
 
