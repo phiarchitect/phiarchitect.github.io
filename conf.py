@@ -19,7 +19,7 @@ import photonsphinx
 blog_path = 'posts'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
-blog_title = "phiarchitect.github.io"
+blog_title = "phiarchitect GITHUB"
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -364,6 +364,7 @@ htmlhelp_basename = "phiarchitectgithubiodoc"
 
 html_theme_options = {
     'logo': 'phi-headshot-sqr.jpg',
+    'logo_name': True,
     'github_user': 'phiarchitect',
     'github_button': True,
 }
